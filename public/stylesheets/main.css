@@ -1,0 +1,13 @@
+.thumbnail img {
+    width: 100%;
+}
+.thumbnail {
+    padding: 0px;
+}
+.delete-form{
+    display: inline;
+}
+#all-forms {
+    width: 30%; 
+    margin:30px auto;
+}
